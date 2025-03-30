@@ -1,4 +1,4 @@
-## Step 1: Fork the Repository (if not a collaborator)
+## Step 1: Fork the Repository
 1. Go to the repository on GitHub.  
 2. Click the **"Fork"** button at the top right to create a copy in your GitHub account.  
 
