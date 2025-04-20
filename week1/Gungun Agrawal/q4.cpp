@@ -1,7 +1,8 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+ {
     int d,n;
     cout<<"Enter a decimal number: ";
     cin>>d;
@@ -26,7 +27,7 @@ int main() {
             cout<<binary[j];
         }
     }
-    cout << endl;
+    cout<< endl;
     cout << "conversion to Octal: ";
     if (n==0) 
     {
